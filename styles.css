@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 
-.header{
+header{
  background-color:#011e29;
  color:white;	
  text-align:center;	
@@ -10,7 +10,7 @@
   display:flex;
   justify-content:space-evenly;
   align-items:flex-start;
- padding:2px;
+  padding:2px;
   	
 }
 .latest-news-section{
@@ -26,6 +26,7 @@
 .main-Article{
  
  border-radius: 10px;	
+ width:200px;	
  background-color:#f5f5f5;
  padding:10px;	
  text-align:center;

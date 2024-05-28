@@ -1,7 +1,5 @@
 /*  your css code here. If applicable */
-body{
-background-color:#f5f5f5;
-}
+
 .header{
  background-color:#011e29;
  color:white;	
@@ -16,9 +14,9 @@ background-color:#f5f5f5;
   	
 }
 .latest-news-section{
-	
+ width:200px;	
  border-radius: 10px;	
- background-color:white;
+ background-color: #f5f5f5;
  padding:10px;	
  text-align:center;
  /* display:flex; 
@@ -28,14 +26,14 @@ background-color:#f5f5f5;
 .main-Article{
  
  border-radius: 10px;	
- background-color:white;
+ background-color:#f5f5f5;
  padding:10px;	
  text-align:center;
 }
 .pictorial-news-section{
- 
+ width:200px;
  border-radius: 10px;		
- background-color:white;
+ background-color: #f5f5f5;
  padding:10px;	
  text-align:center;
 	
